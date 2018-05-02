@@ -1,0 +1,10 @@
+build/
+devel/
+logs/
+.catkin_workspace
+.catkin_tools/
+
+*.swo
+*.swp
+*.swm
+*.swn
